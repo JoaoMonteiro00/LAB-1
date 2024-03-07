@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<image src="logo.jpg">
+<head>
+<title>
+Project Name
+</title>
+</head>
+<body>
+<button>
+Login
+</button>
+
+<button>
+Register
+</button>
+<a href="Segunda_pagina" target="_blank" title="Forgot password?">
+</a>
+
+</body>
+</html>
